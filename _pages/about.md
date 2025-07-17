@@ -16,36 +16,34 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 🧑 简介
-在广袤的中华大地上，存在着这样一个阿卡林省，鄱阳湖静静地铺在它的北部。1998年农历6月17的这天下午，湖面上万里无云，岸边的一个村庄上正在酝酿着一个奇迹！于是乎，天空一声巨响，爷们闪亮登场！
+# 🧑 About Me
+I am a Ph.D. candidate (expected to graduate in 2027) at the **College of Computer, National University of Defense Technology**, in Changsha, Hunan, China.  
+My primary advisor is **Researcher Dongsheng Li** ([Google Scholar](https://scholar.google.com/citations?user=_WrK108AAAAJ&hl=zh-CN)),  
+and my co-advisor is **Associate Researcher Tao Sun** ([Homepage](https://nudtsuntao1991.github.io/)).
 
-博士即将（预计2027）毕业于湖南长沙的国防科技大学计算机学院。  
-大导是李东升研究员（[Google Scholar 主页](https://scholar.google.com/citations?user=_WrK108AAAAJ&hl=zh-CN)），  
-小导是孙涛副研究员（[个人主页](https://nudtsuntao1991.github.io/)）。
-
-个人已发表的学术论文：
+Published academic papers:  
 <a href='https://scholar.google.com/citations?user=RP4z8JAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
-研究领域包括：
-- 联邦学习
-- 人工智能
-- 机器学习
-- 分布式
-- 算法优化
+Research Interests:
+- Federated Learning
+- Artificial Intelligence
+- Machine Learning
+- Distributed Systems
+- Algorithm Optimization
 
 
 <span class='anchor' id='-educations'></span>
 
-# 🎓 学历
-- *2023.09 - 至今*, <a href="https://www.nudt.edu.cn/"><img class="png" src="/images/NUDT_logo.png" width="23pt"></a> 国防科技大学 计算机学院, 湖南长沙, 博士 
-- *2020.09 - 2023.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HaiNan.png" width="23pt"></a> 海南大学 计算机科学与技术学院, 海南海口, 硕士 
-- *2016.09 - 2020.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/HaiNan.png" width="20pt"></a> 海南大学 网络空间安全学院（密码学院）, 海南海口, 本科
- 
+# 🎓 Education
+- *2023.09 - Present*, <a href="https://www.nudt.edu.cn/"><img class="png" src="/images/NUDT_logo.png" width="23pt"></a> College of Computer, National University of Defense Technology, Changsha, Hunan, Ph.D.
+- *2020.09 - 2023.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HaiNan.png" width="23pt"></a> College of Computer Science and Technology, Hainan University, Haikou, Hainan, M.E.
+- *2016.09 - 2020.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/HaiNan.png" width="20pt"></a> College of Cyberspace Security (School of Cryptography), Hainan University, Haikou, Hainan, B.E.
+
 <span class='anchor' id='-publications'></span>
 
-# 📝 论文专利
+# 📝 Publications & Patents
 
-### 英文
+### International
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAFL JSAC2022</div><img src='images/AAFL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -75,28 +73,25 @@ redirect_from:
 </div>
 
 
-### 中文
+### Domestic
 ---
-这里的区域以后再来探索吧。
+This area will be explored in the future.
 
-### 专利
+### Patents
 ---
-- 程杰仁, 唐湘滟, 袁煜明, 李慧, `罗平`. 基于智能合约和SGX 的数据分布式隐私保护方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CFA5AFA9IEF9HDB4ADA9IEE9EAACFFACGFA9ACBBFHA9IBC)
-
+- Jieren Cheng, Xiangyan Tang, Yuming Yuan, Hui Li, `Ping Luo`. A Privacy-Preserving Distributed Data Protection Method Based on Smart Contracts and SGX. [[Link]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CFA5AFA9IEF9HDB4ADA9IEE9EAACFFACGFA9ACBBFHA9IBC)
 
 <span class='anchor' id='-honors-and-awards'></span>
 
-# 🏅 荣誉奖项
-- *2022.11* 获得 中国高校计算机大赛-人工智能创意赛 `一等奖`  [[证书]](https://github.com/NUDTPingLuo/Papers/blob/main/Others/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9B%E6%84%8F%E8%B5%9B%E8%AF%81%E4%B9%A6.pdf) 
+# 🏅 Honors & Awards
+- *Nov. 2022*, First Prize in China Collegiate Computing Contest - AI Innovation Track [[Certificate]](https://github.com/NUDTPingLuo/Papers/blob/main/Others/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9B%E6%84%8F%E8%B5%9B%E8%AF%81%E4%B9%A6.pdf)
 
 <span class='anchor' id='-conferences'></span>
 
-# 🏛️ 学术会议
-- *2025.7*, 国防科技大学并行与分布式计算重点实验室组会, 湖南长沙, 受邀报告
-
-其实这里是一片荒芜的平原。
+# 🏛️ Academic Conferences
+This area will be explored in the future.
 
 <span class='anchor' id='-internships'></span>
 
-# 💻 工作实习
-- *2021.06 - 2021.09*, 牛津海南区块链研究院, 海南澄迈
+# 💻 Internships
+- *Jun. 2021 - Sep. 2021*, Oxford-Hainan Blockchain Research Institute, Chengmai, Hainan
