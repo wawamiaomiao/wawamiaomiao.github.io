@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "罗平"
-description              : "分布式机器学习"
+title                    : "Ping Luo"
+description              : "Distributed Machine Learning"
 repository               : "wawamiaomiao/wawamiaomiao.github.io"
 google_scholar_stats_use_cdn : True
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "罗平"
+  name             : "Ping Luo"
   avatar           : "images/头像.png"
-  bio              : "国防科技大学"
-  location         : "湖南 长沙"
+  bio              : "National University of Defense Technology"
+  location         : "Chang Sha, Hu Nan"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RP4z8JAAAAAJ"
