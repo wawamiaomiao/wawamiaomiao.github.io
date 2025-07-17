@@ -21,8 +21,7 @@ I am a Ph.D. candidate (expected to graduate in 2027) at the **College of Comput
 My primary advisor is **Researcher Dongsheng Li** ([Google Scholar](https://scholar.google.com/citations?user=_WrK108AAAAJ&hl=zh-CN)),  
 and my co-advisor is **Associate Researcher Tao Sun** ([Homepage](https://nudtsuntao1991.github.io/)).
 
-Published academic papers:  
-<a href='https://scholar.google.com/citations?user=RP4z8JAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
+Published academic papers:  <a href='https://scholar.google.com/citations?user=RP4z8JAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
 
 Research Interests:
 - Federated Learning
