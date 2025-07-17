@@ -34,14 +34,14 @@ redirect_from:
 - 算法优化
 
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-educations'></span>
 
 # 🎓 学历
 - *2023.09 - 至今*, <a href="https://www.nudt.edu.cn/"><img class="png" src="/images/NUDT_logo.png" width="23pt"></a> 国防科技大学 计算机学院, 湖南长沙, 博士 
 - *2020.09 - 2023.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HaiNan.png" width="23pt"></a> 海南大学 计算机科学与技术学院, 海南海口, 硕士 
 - *2016.09 - 2020.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/HaiNan.png" width="20pt"></a> 海南大学 网络空间安全学院（密码学院）, 海南海口, 本科
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-publications'></span>
 
 # 📝 论文专利
 
@@ -84,19 +84,19 @@ redirect_from:
 - 程杰仁, 唐湘滟, 袁煜明, 李慧, `罗平`. 基于智能合约和SGX 的数据分布式隐私保护方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CFA5AFA9IEF9HDB4ADA9IEE9EAACFFACGFA9ACBBFHA9IBC)
 
 
-<span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='-honors-and-awards'></span>
 
 # 🏅 荣誉奖项
 - *2022.11* 获得 中国高校计算机大赛-人工智能创意赛 `一等奖`  [[证书]](https://github.com/NUDTPingLuo/Papers/blob/main/Others/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9B%E6%84%8F%E8%B5%9B%E8%AF%81%E4%B9%A6.pdf) 
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-conferences'></span>
 
 # 🏛️ 学术会议
 - *2025.7*, 国防科技大学并行与分布式计算重点实验室组会, 湖南长沙, 受邀报告
 
 其实这里是一片荒芜的平原。
 
-<span class='anchor' id='-gzsx'></span>
+<span class='anchor' id='-internships'></span>
 
 # 💻 工作实习
 - *2021.06 - 2021.09*, 牛津海南区块链研究院, 海南澄迈
